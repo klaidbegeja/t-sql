@@ -1,8 +1,8 @@
 -- =============================================
 -- Author:		Klaid Begeja
--- Description:	Scalar Funciton to return Gregorian date from Julian date
--- Format date yyyyjjj
--- Sample date 2022172
+-- Description:		Scalar Funciton to return Gregorian date from Julian date
+-- Format date:		yyyyjjj
+-- Sample date:		2022172
 -- =============================================
 CREATE FUNCTION ConvertJulianToGregorianDate 
 (
